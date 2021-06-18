@@ -1,11 +1,16 @@
 _repo: Commentaries-on-the-Surgery-of-the-War-in-Portugal-Spain-France-and-the-Netherlands_65622
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65622-h/images/cover.jpg
 creator:
   author:
     agent_name: Guthrie, G. J.
     gutenberg_agent_id: '53433'
     url: http://www.gutenberg.org/2009/agents/53433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65622#Commentaries-on-the-Surgery-of-the-War-in-Portugal-Spain-France-and-the-Netherlands
 gutenberg_issued: '2021-06-15'
 gutenberg_type: Text
 identifiers:
